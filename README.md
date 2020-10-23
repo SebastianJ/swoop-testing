@@ -14,7 +14,7 @@ This repo is intended to track the testing process of Swoop.
 
 P-OPS #1 is a testing environment dedicated for P-OPS to test liquidity provider features.
 
-Prerequisites:
+#### Prerequisites:
 
 - No initial pools will be set up by the deployer.
 - Testnet 10,000 ONE and 10,000 of each testnet token will be distributed by the deployer.
@@ -23,19 +23,19 @@ Prerequisites:
 
 P-OPS #2 is a testing environment dedicated for P-OPS to test repeated trading outcomes.
 
-Prerequisites:
+#### Prerequisites:
 
 - Pool will be setup for all test token pairings by the deployer. Each pair will consist of 1,000,000 token x and 1,000,000 token y to simulate a similar pricing situation.
-- 10,000 of Testnet ONE and 10,000 of each testnet token will be distributed by the deployer.
+- 10,000 of testnet ONE and 10,000 of each testnet token will be distributed by the deployer.
 
 ### Swoop demo
 
 Swoop demo is the general testing environment Harmony utilizes.
 
-Prerequisites:
+#### Prerequisites:
 
 - Pool will be setup for all test token pairings by the deployer. Each pair will consist of 1,000,000 token x and 1,000,000 token y to simulate a similar pricing situation.
-- 10,000 of Testnet ONE and 10,000 of each testnet token will be distributed by the deployer.
+- 10,000 of testnet ONE and 10,000 of each testnet token will be distributed by the deployer.
 
 ## Bugs & issues
 
