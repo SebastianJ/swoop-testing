@@ -6,9 +6,9 @@ This repo is intended to track the testing process of Swoop.
 
 | Domain     | Environment | Objective                    | Factory | Router | Deployed                |
 | -----------| ----------- | --------------------------   | ------- | ------ | ----------------------- |
-| P-OPS #1    | Testnet    | Liquidity provider testing   | 0x      | 0x     | 2020-10-23 xx:xx:xx UTC |
-| P-OPS #2    | Testnet    | Repeat trade testing         | 0x      | 0x     | 2020-10-23 xx:xx:xx UTC |
-| Swoop demo  | Testnet    | Free testing/no restrictions | 0xC4dacF41Ba6B40bB2F280892D402C788136dCD4F | 0xbE39452A9FB4Bfa1EcfA38ac1Cd9191fBB6362e4 | 2020-10-23 xx:xx:xx UTC |
+| P-OPS #1    | Testnet    | Liquidity provider testing   | 0xCaD2a40d311c8587dbbDfc8BC34391B0470c6a65 | 0x22c77c52BEa009c0C1B42b0D61bA338765a38eFB | 2020-10-24 09:50 UTC |
+| P-OPS #2    | Testnet    | Repeat trade testing         | 0x95fcb04Afd86d1956e7574E52Ae2cb15450E2818 | 0x5d878C48cFF640bc3E83fB9d537B5080856c20a6 | 2020-10-24 11:30 UTC |
+| Swoop demo  | Testnet    | Free testing/no restrictions | 0xC4dacF41Ba6B40bB2F280892D402C788136dCD4F | 0xbE39452A9FB4Bfa1EcfA38ac1Cd9191fBB6362e4 | 2020-10-23 20:20 UTC |
 
 ### P-OPS #1
 
